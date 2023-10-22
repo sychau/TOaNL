@@ -6,14 +6,14 @@ We made a big 3D rotating leaf in C++ in Command Line Interface with ASCII chara
 ## File structure
 TOaNL  
 ├── CMakeLists.txt  
-  ├── LICENSE  
-  ├── README.md  
-  ├── build  
-  ├── debug  
-  ├── etc  
-  ├── include  
-  ├── src  
-  └── test 
+  ├── LICENSE   -- MIT License
+  ├── README.md -- README.md
+  ├── build     -- exeucutables
+  ├── debug     --
+  ├── etc       --
+  ├── include   -- header files
+  ├── src       -- source code
+  └── test      -- test files
 
 ## Setup and run
 ### Pre-requisite
@@ -39,9 +39,8 @@ cmake -S . -B build; cmake --build build
 
 
 ## Libraries and resource
-### ncurses
-### cmake
-
+1. ncurses
+2. cmake
 
 ## Github repository and video tutorial
 Github repository: https://github.com/sychau/TOaNL.git
