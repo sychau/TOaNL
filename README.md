@@ -5,15 +5,15 @@ We made a big 3D rotating leaf in C++ in Command Line Interface with ASCII chara
 
 ## File structure
 TOaNL  
-├── CMakeLists.txt  
-  ├── LICENSE   -- MIT License
-  ├── README.md -- README.md
-  ├── build     -- exeucutables
-  ├── debug     --
-  ├── etc       --
-  ├── include   -- header files
-  ├── src       -- source code
-  └── test      -- test files
+  ├── CMakeLists.txt  
+  ├── LICENSE   -- MIT License  
+  ├── README.md -- README.md  
+  ├── build     -- exeucutables  
+  ├── debug  
+  ├── etc  
+  ├── include   -- header files  
+  ├── src       -- source code  
+  └── test      -- test files  
 
 ## Setup and run
 ### Pre-requisite
